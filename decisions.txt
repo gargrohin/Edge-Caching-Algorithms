@@ -1,0 +1,6 @@
+constant total content size.
+#same files, different names.
+constant upper limit on individual file size
+wasn't able to make sure Core Cache and SCN store different cache.
+my content-ordering policy, how i decided to popularize some content over other.
+less size of cache storage.
